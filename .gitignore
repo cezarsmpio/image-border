@@ -6,6 +6,7 @@
 # Executables
 *.exe
 *.out
+image-border
 
 # Go binary
 bin/
